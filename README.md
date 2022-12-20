@@ -36,7 +36,7 @@
 - 编写代码，调用本地代理服务器实现的GRPC接口，接收行情消息推送
 
 
-行情工具[请点击下载](https://github.com/Level2API/l2-push-csharp/tree/master/cli)，目录说明：
+行情工具[请点击下载](https://gitee.com/l2gogogo/l2-push-csharp/tree/master/cli)，目录说明：
 
 | 名称       | 说明               |
 | ---------- | ------------------ |
